@@ -1,0 +1,44 @@
+body{
+    font-family:"Avenir Next";
+    color: #0099cc;
+    display: flex;
+    flex-direction:column;
+    margin:0 auto;
+    padding:1 14px;
+    min-height:100;
+    max-width:590;
+}
+
+footer{
+
+color: #0000ff;
+border-top: 1px solid #eeeeee;
+
+}
+header{
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
+h1{
+    font-size: 64px;
+    margin-bottom: 16px;
+}
+
+.weatherForecastWidget{
+    min-width:900;
+    min-height:540;
+    margin:0 auto;
+    float:inherit;
+    margin-right:100px;
+    border:1px solid #dee7ec;
+    padding-left: 1000px;
+}
+
+
+.imgc{
+    max-width: 250px;
+}
+.main-content{
+
+    flex-grow: 1;
+}
