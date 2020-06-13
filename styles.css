@@ -26,12 +26,8 @@ h1{
 
 .weatherForecastWidget{
     min-width:900;
-    min-height:540;
-    margin:0 auto;
-    float:inherit;
-    margin-right:100px;
+    min-height:500;
     border:1px solid #dee7ec;
-    padding-left: 1000px;
 }
 
 
